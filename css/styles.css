@@ -1,0 +1,32 @@
+#turtle {
+  display: none;
+}
+#snake {
+  display: none;
+}
+#insects {
+  display: none;
+}
+
+.jumbotron {
+margin-top: 4cm;
+
+}
+
+h1 {
+  text-align: center;
+  font-family: fantasy;
+}
+
+p {
+  text-align: center;
+
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  border: 12px solid #A2D7E8;
+}
